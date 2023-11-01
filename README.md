@@ -8,7 +8,7 @@ Welcome to my GitHub playground! I'm Kirill, a passionate front-end developer wh
 
 ## About Me
 
-- 💻 Self-taught front-end developer exploring the wonders of HTML, CSS, and JavaScript.
+- 💻 Front-end developer exploring the wonders of HTML, CSS, and JavaScript.
 - 🌱 Currently mastering React, TypeScript, Redux, and more!
 - 🚀 Eager to learn, explore, and create amazing web experiences.
 - 😄 Fun fact: I believe that the best error message is the one that never shows up!
