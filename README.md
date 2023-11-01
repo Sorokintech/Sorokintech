@@ -1,6 +1,3 @@
-<!--
-**Sorokintech/Sorokintech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Hello World! 👋
 
 Welcome to my GitHub playground! I'm Kirill, a passionate front-end developer who's ready to conquer the coding universe, one line at a time! 🚀
