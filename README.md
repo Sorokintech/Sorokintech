@@ -36,9 +36,6 @@ Code alchemist, transforming ideas into interactive reality! ⚗️💻
 
 Feel free to reach out if you want to collaborate, share ideas, or just geek out about the latest in the tech world. I'm always up for a coding challenge and a good laugh!
 
-Remember, in the words of a wise developer:
-
-> "Code is like humor. When you have to explain it, it’s bad." 💻
 
 Looking forward to learning, exploring, and coding our way to greatness together! Happy coding! 👩‍💻👨‍💻
 
