@@ -3,7 +3,7 @@
 Welcome to my GitHub playground! I'm Kirill, a passionate front-end developer who's ready to conquer the coding universe, one line at a time! 🚀
 
 <div align="center">
-  <img src="https://media.giphy.com/media/B4RNUxFYr0xu/giphy.gif" alt="Hello There!" width="300" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDN2bm1pY242M2ppb25jZ3pqNTZpcjZkNWU1Zm5rY3Q5d3RheWd2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3otPoSyc3ty37iTKsU/giphy.gif" alt="Hello There!" width="300" />
 </div>
 
 ## About Me
@@ -21,13 +21,6 @@ Welcome to my GitHub playground! I'm Kirill, a passionate front-end developer wh
 - 🧠 Redux, RTK, MobX - Because managing state is an art!
 - 📚 Git - Keeping my code versioned and my commits meaningful.
 
-## My Superpower
-
-Code alchemist, transforming ideas into interactive reality! ⚗️💻
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7aCR8T4RmpDcC8Uk/giphy.gif" alt="Coffee Coding" width="300" />
-</div>
 
 ## Let's Connect
 
